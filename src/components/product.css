@@ -1,0 +1,13 @@
+table.table.table-responsive-sm.table-responsive-md.table-responsive-lg thead tr th {
+    width: 20%;
+    text-align: center;
+}
+table.table.table-responsive-sm.table-responsive-md.table-responsive-lg tbody tr td {
+    text-align: center;
+}
+table.table.table-responsive-sm.table-responsive-md.table-responsive-lg tbody tr td:first-child {
+    text-align: left;
+}
+.cursorevent{
+    cursor: pointer;
+}
